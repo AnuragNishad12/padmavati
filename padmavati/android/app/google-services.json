@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "1044396730352",
+    "firebase_url": "https://listener-1d38a-default-rtdb.firebaseio.com",
+    "project_id": "listener-1d38a",
+    "storage_bucket": "listener-1d38a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044396730352:android:054bd79fe039d5ae62df35",
+        "android_client_info": {
+          "package_name": "com.example.firebase_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044396730352-9a2db0qam279db3sg70peisoku67j3o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJrJcg45baWMkYgI_YW_dmFlTOBLlncHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044396730352-9a2db0qam279db3sg70peisoku67j3o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044396730352:android:22eab5b63388a9e362df35",
+        "android_client_info": {
+          "package_name": "com.example.padmavati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044396730352-9a2db0qam279db3sg70peisoku67j3o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJrJcg45baWMkYgI_YW_dmFlTOBLlncHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044396730352-9a2db0qam279db3sg70peisoku67j3o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044396730352:android:e217324f1ee5f32862df35",
+        "android_client_info": {
+          "package_name": "com.reyedge.listener"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044396730352-7prf05ck0pssqdeeca1ig26llcdijp2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reyedge.listener",
+            "certificate_hash": "24b2ef207fc1e0940c17c40136466d3693603535"
+          }
+        },
+        {
+          "client_id": "1044396730352-9a2db0qam279db3sg70peisoku67j3o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJrJcg45baWMkYgI_YW_dmFlTOBLlncHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044396730352-9a2db0qam279db3sg70peisoku67j3o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
